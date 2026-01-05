@@ -1,4 +1,4 @@
-Daily Active Users (DAU)
+**Daily Active Users (DAU)**
 
 Date range: 2017-07-01 to 2017-07-07
 
