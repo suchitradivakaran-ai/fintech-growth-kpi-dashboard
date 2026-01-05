@@ -18,8 +18,7 @@ The alignment between new user spikes and DAU spikes indicates that daily activi
 
 **Users by Acquisition Channel**
 
-**Top channels:
-**
+Top channels:
 Google (~6,599 users)
 
 Direct
