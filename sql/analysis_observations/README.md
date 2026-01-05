@@ -1,56 +1,53 @@
 **Daily Active Users (DAU)**
 
-Date range: 2017-07-01 to 2017-07-07
+**Date range: 2017-07-01 to 2017-07-07**
 
-Observation:
+**Observation:**
 Daily active users show an overall upward trend across the selected period, though the pattern is not strictly stable. User activity increases initially, dips mid-period, and rises again towards the end of the week. A noticeable spike is observed on 2017-07-05, where active users increase sharply from approximately 1,799 to 2,683.
 
-Interpretation (not a conclusion):
+**Interpretation:**
 This suggests short-term fluctuations in user activity, potentially driven by acquisition efforts or external factors, rather than consistent organic growth.
 
-New Users by Date
+**New Users by Date**
 
-Observation:
+**Observation:**
 New user acquisition appears spiky, with an overall increase towards the end of the week. A significant spike occurs on 2017-07-05, with approximately 2,563 new users, which aligns with the spike observed in daily active users.
 
-Interpretation:
+**Interpretation:**
 The alignment between new user spikes and DAU spikes indicates that daily activity is strongly influenced by acquisition rather than repeat usage.
 
-Users by Acquisition Channel
+**Users by Acquisition Channel**
 
-Top channels:
-
+**Top channels:
+**
 Google (~6,599 users)
 
 Direct
 
 YouTube
 
-Observation:
+**Observation:**
 User acquisition is heavily dominated by Google, with other channels contributing significantly fewer users. Traffic sources are not evenly diversified.
 
-Interpretation:
+**Interpretation:**
 Growth is currently dependent on a single primary acquisition channel, which may present concentration risk if channel performance changes.
 
-Layer 3 – Engagement Observations
+**Engagement Observations**
 Average Sessions per User
-
 Value: ~1.12
 
-Observation:
+**Observation:**
 On average, users engage in just over one session during the selected time window, indicating limited repeat visits within the week.
 
-Interpretation:
+**Interpretation:**
 This suggests that most users interact with the platform only once or twice, pointing to early-stage or low retention behaviour.
 
-Average Events per User
-
+**Average Events per User**
 Value: ~4.4
 
-Observation:
+**Observation:**
 Users generate a small number of events per session on average, indicating moderate but shallow interaction with platform features.
 
-Context on “low / medium / high”:
 
 Low: 1–3 events/user
 
@@ -60,22 +57,19 @@ High: 10+ events/user
 
 At 4.4 events per user, engagement can be considered low-to-medium, typical of browsing or exploratory behaviour rather than deep product usage.
 
-Percentage of Transacting Users
+**Percentage of Transacting Users**
 
 Value: 0%
 
-Observation:
+**Observation:**
 No users completed a transaction within the selected 7-day window.
 
-Important clarification:
-This does not indicate an error. Transactions in the GA sample dataset are sparse and highly time-dependent. A short analysis window can legitimately contain zero transaction events.
-
-Interpretation:
+**Interpretation:**
 This highlights a large gap between user visits and meaningful actions, reinforcing the need to analyse funnel drop-offs and activation barriers in subsequent layers.
 
-Cross-Layer Pattern (Early Signal, Not Conclusion)
 
-Across growth and engagement metrics:
+
+**Across growth and engagement metrics:**
 
 User activity spikes align with new user acquisition rather than repeat engagement
 
