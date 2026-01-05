@@ -1,4 +1,4 @@
-**Daily Active Users (DAU)**
+**1. Daily Active Users (DAU)**
 
 **Date range: 2017-07-01 to 2017-07-07**
 
@@ -8,7 +8,7 @@ Daily active users show an overall upward trend across the selected period, thou
 **Interpretation:**
 This suggests short-term fluctuations in user activity, potentially driven by acquisition efforts or external factors, rather than consistent organic growth.
 
-**New Users by Date**
+**2. New Users by Date**
 
 **Observation:**
 New user acquisition appears spiky, with an overall increase towards the end of the week. A significant spike occurs on 2017-07-05, with approximately 2,563 new users, which aligns with the spike observed in daily active users.
@@ -16,7 +16,7 @@ New user acquisition appears spiky, with an overall increase towards the end of 
 **Interpretation:**
 The alignment between new user spikes and DAU spikes indicates that daily activity is strongly influenced by acquisition rather than repeat usage.
 
-**Users by Acquisition Channel**
+**3. Users by Acquisition Channel**
 
 Top channels:
 Google (~6,599 users)
@@ -31,7 +31,7 @@ User acquisition is heavily dominated by Google, with other channels contributin
 **Interpretation:**
 Growth is currently dependent on a single primary acquisition channel, which may present concentration risk if channel performance changes.
 
-**Engagement Observations**
+**4. Engagement Observations**
 Average Sessions per User
 Value: ~1.12
 
@@ -41,7 +41,7 @@ On average, users engage in just over one session during the selected time windo
 **Interpretation:**
 This suggests that most users interact with the platform only once or twice, pointing to early-stage or low retention behaviour.
 
-**Average Events per User**
+**5. Average Events per User**
 Value: ~4.4
 
 **Observation:**
@@ -56,7 +56,7 @@ High: 10+ events/user
 
 At 4.4 events per user, engagement can be considered low-to-medium, typical of browsing or exploratory behaviour rather than deep product usage.
 
-**Percentage of Transacting Users**
+**6. Percentage of Transacting Users**
 
 Value: 0%
 
