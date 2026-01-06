@@ -82,5 +82,8 @@ These patterns suggest opportunities to improve activation, onboarding clarity, 
 
 **Funnel Mapping:** Funnel stages were mapped using available event actions. Due to limitations of the public dataset, onboarding steps are simulated and represent directional user behaviour rather than exact platform flows.
 
-### Funnel Insights
+**Funnel Insights**
 The intent-based user journey funnel reveals significant drop-offs at the early and late stages of the user journey. While overall traffic volume is high, only 13.35% of visitors interact with products, indicating limited initial engagement. Users who do explore products show relatively strong intent, with 41.8% progressing to add-to-cart actions. However, a sharp drop occurs during checkout, and no users complete a transaction within the analysis window. This suggests friction at the final stages of the journey and highlights an activation gap between intent and conversion.
+
+**Transaction & Value Insights**
+Transaction activity is present during the analysis period, with 138 transacting users completing 140 transactions and generating approximately 19.8K in revenue. However, comparison with the intent-based funnel indicates that only a small subset of users progress through the defined journey stages prior to transaction completion. This suggests that transactions may occur through alternate or less observable paths, highlighting gaps in the funnel representation and potential tracking or experience inconsistencies.
