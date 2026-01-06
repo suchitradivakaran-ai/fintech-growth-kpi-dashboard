@@ -7,3 +7,4 @@ conversion rates and drop-offs across stages.
 The goal is to identify friction points in the user journey
 from first interaction to first transaction.
 
+Funnel stages were mapped using available event actions. Due to limitations of the public dataset, onboarding steps are simulated and represent directional user behaviour rather than exact platform flows.
